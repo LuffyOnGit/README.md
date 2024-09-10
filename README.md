@@ -50,13 +50,6 @@ I specialize in building scalable backend systems and enjoy working on microserv
 
 ---
 
-### 💼 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-kumar-933676253/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuffyOnGit)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sunny_kumar1729/)
-
-![Social GIF](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 ---
 
